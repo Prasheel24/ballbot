@@ -1,7 +1,9 @@
 # The Ballbot
 ## Disclaimer
 ```
-This project is shared for informative purposes. The original records of this project are present on the University server. Please use this project for reference only.
+This project is shared for informative purposes. 
+The original records of this project are present on the University server. 
+Please use this project for reference only.
 ```
 ## Author
 Prasheel Renkuntla - [GitHub](https://github.com/Prasheel24)
@@ -17,8 +19,8 @@ The ballbot is an omnidirectional balancing mobile robot. This project discusses
 
 ## Run
 To run the main program and design the State Space, run the file - [mainBallBot](https://github.com/Prasheel24/ballbot/blob/master/code/mainBallBot.m)
-To verify the simulation results of balancing control, run the file - [balancingControl](https://github.com/Prasheel24/ballbot/blob/master/code/balancingControl.slx)
-To run the simulation of the stationkeeping control, use this file - [stationKeepingControl](https://github.com/Prasheel24/ballbot/blob/master/code/stationKeepingControl.slx)
+<br> To verify the simulation results of balancing control, run the file - [balancingControl](https://github.com/Prasheel24/ballbot/blob/master/code/balancingControl.slx)
+<br> To run the simulation of the stationkeeping control, use this file - [stationKeepingControl](https://github.com/Prasheel24/ballbot/blob/master/code/stationKeepingControl.slx)
 
 ## Demo
 The output from the balancing control for the stabilisation of body angles (phi) can be seen in the image below-
